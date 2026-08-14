@@ -6,19 +6,23 @@ Ich entwickle seit 2023 produktionsnahe Webanwendungen, Integrationen und Automa
 
 ## Ausgewählte Arbeit
 
-### AI-Callcenter mit CRM-Integration
+### [AI-Callcenter mit CRM-Integration](https://github.com/matlis02361/work-case-studies/blob/main/ai-callcenter/README.md)
 
 Ich entwickle weitgehend eigenverantwortlich eine Voice-AI-Plattform mit OpenAI Realtime, Twilio und Pipedrive. Dazu gehören Echtzeit-Audio, Gesprächskontext, Routing, Webhooks, Callback-Logik, Transkripte und strukturierte CRM-Nachbearbeitung sowie Dashboard, Authentifizierung, Monitoring und Betrieb.
 
-### Server- und Anwendungsmonitoring
+### [Server- und Anwendungsmonitoring](https://github.com/matlis02361/work-case-studies/blob/main/monitoring-platform/README.md)
 
-Ein weiteres von mir konzipiertes und entwickeltes System überwacht Dienste, Ressourcen, Erreichbarkeit, SSL, Datenbanken, Backups und Logs. Der Schwerpunkt liegt auf nachvollziehbarer Alarmierung, sicherer Diagnose und praktischer Fehleranalyse. Ereignisse können durch eine abgesicherte KI-Diagnose ergänzt werden, ohne unkontrollierte Änderungen am Produktionssystem auszuführen.
+Ein weiteres von mir konzipiertes und entwickeltes System überwacht Dienste, Ressourcen, Erreichbarkeit, SSL, Datenbanken, Backups und Logs. Der Schwerpunkt liegt auf nachvollziehbarer Alarmierung, kontrollierter Diagnose und praktischer Fehleranalyse. Ereignisse können durch eine kontrollierte KI-Diagnose ergänzt werden, ohne unkontrollierte Änderungen am Produktionssystem auszuführen.
 
-### KI-gestützte Übersetzungen in Strapi
+### [KI-gestützte Übersetzungen in Strapi](https://github.com/matlis02361/work-case-studies/blob/main/cms-ai-translation/README.md)
 
 Zu Beginn meiner Tätigkeit entwickelte ich einen OpenAI-gestützten Workflow für strukturierte Strapi- und GraphQL-Inhalte. Das System verarbeitet ausgewählte Felder, verwendet vorhandene Übersetzungen erneut und ermöglicht eine kontrollierte redaktionelle Prüfung direkt im CMS-Prozess.
 
-## Öffentlicher Code
+## Öffentliche Projekte
+
+### [work-case-studies](https://github.com/matlis02361/work-case-studies)
+
+Drei anonymisierte technische Fallstudien zu Voice AI, Server- und Anwendungsmonitoring sowie KI-gestützter CMS-Automatisierung. Sie zeigen Problemstellung, meinen Beitrag, vereinfachte Architektur, technische Entscheidungen und Grenzen – ohne Firmenquellcode oder Kundendaten.
 
 ### [my-personal-assistant](https://github.com/matlis02361/my-personal-assistant)
 
