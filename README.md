@@ -6,6 +6,18 @@ Ich entwickle seit 2023 produktionsnahe Webanwendungen, Integrationen und Automa
 
 ## Ausgewählte Arbeit
 
+### [ARI Motors – Webplattform, Shop und CRM-Integration](https://github.com/matlis02361/work-case-studies/blob/main/ari-motors-platform/README.md)
+
+Bei ARI Motors arbeite ich an einer gewachsenen Next.js-, React- und Strapi-Plattform. Mein Beitrag umfasst unter anderem Produktsuche, dynamische Produktseiten mit SSG und ISR, einen durchgängigen Empfehlungsworkflow bis zur Pipedrive-Integration, Backoffice-Funktionen sowie automatisierte Prüfungen für Produktseiten.
+
+Öffentliche Website: [ari-motors.com](https://ari-motors.com/)
+
+### [Vergleichsplattformen für elektrische Nutzfahrzeuge und Lastenräder](https://github.com/matlis02361/work-case-studies/blob/main/etv-platform/README.md)
+
+Ich habe an der Zusammenführung zweier fachlich verwandter Plattformen in einer gemeinsamen Next.js-Codebasis gearbeitet. Dazu gehören die Variantenauflösung beim Build über Umgebungsvariablen und statische Webpack-Aliase, variantenspezifische Filter und GraphQL-Abfragen, getrennte Strapi-Anbindungen sowie ausgewählte Vergleichs-, Dokument- und PDF-Funktionen.
+
+Öffentliche Websites: [Elektrotransporter Vergleich](https://www.elektrotransporter-vergleich.de/) · [Lastenrad Vergleich](https://www.lastenrad-vergleich.de/)
+
 ### [AI-Callcenter mit CRM-Integration](https://github.com/matlis02361/work-case-studies/blob/main/ai-callcenter/README.md)
 
 Ich entwickle weitgehend eigenverantwortlich eine Voice-AI-Plattform mit OpenAI Realtime, Twilio und Pipedrive. Dazu gehören Echtzeit-Audio, Gesprächskontext, Routing, Webhooks, Callback-Logik, Transkripte und strukturierte CRM-Nachbearbeitung sowie Dashboard, Authentifizierung, Monitoring und Betrieb.
@@ -22,7 +34,7 @@ Zu Beginn meiner Tätigkeit entwickelte ich einen OpenAI-gestützten Workflow f�
 
 ### [work-case-studies](https://github.com/matlis02361/work-case-studies)
 
-Drei anonymisierte technische Fallstudien zu Voice AI, Server- und Anwendungsmonitoring sowie KI-gestützter CMS-Automatisierung. Sie zeigen Problemstellung, meinen Beitrag, vereinfachte Architektur, technische Entscheidungen und Grenzen – ohne Firmenquellcode oder Kundendaten.
+Fünf anonymisierte technische Fallstudien zu einer kommerziellen Webplattform, zwei gemeinsamen Vergleichsplattformen, Voice AI, Server- und Anwendungsmonitoring sowie KI-gestützter CMS-Automatisierung. Sie zeigen Problemstellung, meinen Beitrag, vereinfachte Architektur, technische Entscheidungen und Grenzen – ohne Firmenquellcode oder Kundendaten.
 
 ### [my-personal-assistant](https://github.com/matlis02361/my-personal-assistant)
 
